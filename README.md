@@ -22,10 +22,10 @@ O módulo dotenv-safe serve para carregar automaticamente variáveis de ambiente
 
 Crie um arquivo “.env.example” na raiz do seu projeto com o seguinte conteúdo dentro, representando o modelo de arquivo de configuração que vamos precisar:
 
-# .env.example, committed to repo
+#.env.example, committed to repo
 CRAWLER_INTERVAL=
 
-# Exchange Configs
+#Exchange Configs
 KEY=
 SECRET=
 PIN=
